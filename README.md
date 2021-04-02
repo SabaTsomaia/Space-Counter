@@ -1,4 +1,4 @@
-# Space-Counter
+# Js-Space-Counter
 Simple Space counter with Reset Button
 
 Created in Javascript
