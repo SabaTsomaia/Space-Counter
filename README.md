@@ -1,5 +1,5 @@
 # Js-Space-Counter
-Simple Space counter with Reset Button
+Press Space To start counting 🙌
 
 Created in Javascript
 
